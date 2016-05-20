@@ -1,0 +1,272 @@
+Professor: Mark P. Mattson 
+Found 13 first author students
+AJ Bruce
+AT Petkova
+B Cheng
+DA Butterfield
+I Kruman
+II Kruman
+J Lee
+JN Keller
+K Hensley
+MP Mattson
+RJ Mark
+S Oddo
+Y Goodman
+--------------------
+Professor: Karl Friston 
+Found 6 first author students
+J Ashburner
+J O'Doherty
+KJ Friston
+KJ Worsley
+RSJ Frackowiak
+S Zeki
+--------------------
+Professor: george paxinos 
+Found 9 first author students
+A Reiner
+AC Cuello
+ED Jarvis
+G Paxinos
+IM Harris
+JK Mai
+K Song
+M Dottori
+TM Jessel
+--------------------
+Professor: Giacomo Rizzolatti 
+Found 12 first author students
+B Wicker
+E Kohler
+G Buccino
+G Di Pellegrino
+G Rizzolatti
+L Fadiga
+L Fogassi
+M Iacoboni
+M Jeannerod
+MA Umilta
+ST Grafton
+V Gallese
+--------------------
+Professor: TOMASO POGGIO 
+Found 15 first author students
+A Mohan
+C Papageorgiou
+CP Papageorgiou
+D Marr
+F Girosi
+KK Sung
+M Riesenhuber
+R Brunelli
+S Ramaswamy
+S Ullman
+SL Pomeroy
+T Evgeniou
+T Poggio
+T Serre
+V Torre
+--------------------
+Professor: Joseph LeDoux 
+Found 8 first author students
+A Pitkänen
+EA Phelps
+JE LeDoux
+KS LaBar
+MA Morgan
+MS Gazzaniga
+MT Rogan
+RG Phillips
+--------------------
+Professor: Geoffrey Burnstock 
+Found 9 first author students
+BB Fredholm
+BS Khakh
+CC Chen
+DA Cockayne
+G Burnstock
+MP Abbracchio
+RD Fields
+TE Webb
+V Ralevic
+--------------------
+Professor: Carl Cotman 
+Found 13 first author students
+AC Naj
+CJ Pike
+CW Cotman
+D Burdick
+DT Loo
+DT Monaghan
+EW Harris
+J Koh
+KJ Anderson
+M Sano
+R Kayed
+RA Mulnard
+SA Neeper
+--------------------
+Professor: Solomon H Snyder 
+Found 13 first author students
+A Verma
+AL Burnett
+CB Pert
+DS Bredt
+HI Yamamura
+I Creese
+J Zhang
+JA Javitch
+PL Huang
+SJ Peroutka
+SR Jaffrey
+TM Dawson
+VL Dawson
+--------------------
+Professor: R. Bagozzi 
+Found 8 first author students
+F Davis
+FD Davis
+JR Edwards
+M Bergami
+PA Dabholkar
+R bagozzi
+RP Bagozzi
+UM Dholakia
+--------------------
+Professor: Joseph LeDoux 
+Found 8 first author students
+A Pitkänen
+EA Phelps
+JE LeDoux
+KS LaBar
+MA Morgan
+MS Gazzaniga
+MT Rogan
+RG Phillips
+--------------------
+Professor: Geoffrey Burnstock 
+Found 9 first author students
+BB Fredholm
+BS Khakh
+CC Chen
+DA Cockayne
+G Burnstock
+MP Abbracchio
+RD Fields
+TE Webb
+V Ralevic
+--------------------
+Professor: Carl Cotman 
+Found 13 first author students
+AC Naj
+CJ Pike
+CW Cotman
+D Burdick
+DT Loo
+DT Monaghan
+EW Harris
+J Koh
+KJ Anderson
+M Sano
+R Kayed
+RA Mulnard
+SA Neeper
+--------------------
+Professor: TOMASO POGGIO 
+Found 15 first author students
+A Mohan
+C Papageorgiou
+CP Papageorgiou
+D Marr
+F Girosi
+KK Sung
+M Riesenhuber
+R Brunelli
+S Ramaswamy
+S Ullman
+SL Pomeroy
+T Evgeniou
+T Poggio
+T Serre
+V Torre
+--------------------
+Professor: Mark P. Mattson 
+Found 13 first author students
+AJ Bruce
+AT Petkova
+B Cheng
+DA Butterfield
+I Kruman
+II Kruman
+J Lee
+JN Keller
+K Hensley
+MP Mattson
+RJ Mark
+S Oddo
+Y Goodman
+--------------------
+Professor: Solomon H Snyder 
+Found 13 first author students
+A Verma
+AL Burnett
+CB Pert
+DS Bredt
+HI Yamamura
+I Creese
+J Zhang
+JA Javitch
+PL Huang
+SJ Peroutka
+SR Jaffrey
+TM Dawson
+VL Dawson
+--------------------
+Professor: george paxinos 
+Found 9 first author students
+A Reiner
+AC Cuello
+ED Jarvis
+G Paxinos
+IM Harris
+JK Mai
+K Song
+M Dottori
+TM Jessel
+--------------------
+Professor: Giacomo Rizzolatti 
+Found 12 first author students
+B Wicker
+E Kohler
+G Buccino
+G Di Pellegrino
+G Rizzolatti
+L Fadiga
+L Fogassi
+M Iacoboni
+M Jeannerod
+MA Umilta
+ST Grafton
+V Gallese
+--------------------
+Professor: R. Bagozzi 
+Found 8 first author students
+F Davis
+FD Davis
+JR Edwards
+M Bergami
+PA Dabholkar
+R bagozzi
+RP Bagozzi
+UM Dholakia
+--------------------
+Professor: Karl Friston 
+Found 6 first author students
+J Ashburner
+J O'Doherty
+KJ Friston
+KJ Worsley
+RSJ Frackowiak
+S Zeki
+--------------------
